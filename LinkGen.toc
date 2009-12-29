@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: LinkGen
+## Author: Cargor
+## Version: 1.0
+## X-eMail: xconstruct@gmail.com
+## X-Website: http://www.xconstruct.net
+## Notes: Generates wowhead/armory links for different things
+
+linkgen.lua
